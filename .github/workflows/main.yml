@@ -2,3 +2,6 @@
 on: [push]
 
 name: cargo build
+
+jobs:
+  build:
