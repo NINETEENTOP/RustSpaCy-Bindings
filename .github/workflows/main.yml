@@ -5,3 +5,6 @@ name: cargo build
 
 jobs:
   build:
+    name: rusTy
+    runs-on: ubuntu-latest
+    steps:
