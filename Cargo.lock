@@ -23,3 +23,7 @@ name = "cc"
 version = "1.0.53"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "404b1fe4f65288577753b17e3b36a04596ee784493ec249bf81c7f2d2acd751c"
+
+[[package]]
+name = "cpython"
+version = "0.5.0"
