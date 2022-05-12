@@ -28,3 +28,8 @@ checksum = "404b1fe4f65288577753b17e3b36a04596ee784493ec249bf81c7f2d2acd751c"
 name = "cpython"
 version = "0.5.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "c2efcf01fcd3a7322d82970f45bc02cc089282fe9dea6f6efb45b173f10eacec"
+dependencies = [
+ "libc",
+ "num-traits",
+ "paste",
