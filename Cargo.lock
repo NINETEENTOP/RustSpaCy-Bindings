@@ -33,3 +33,7 @@ dependencies = [
  "libc",
  "num-traits",
  "paste",
+ "python3-sys",
+]
+
+[[package]]
