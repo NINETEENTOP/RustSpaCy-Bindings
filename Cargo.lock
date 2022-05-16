@@ -37,3 +37,5 @@ dependencies = [
 ]
 
 [[package]]
+name = "itoa"
+version = "0.4.5"
