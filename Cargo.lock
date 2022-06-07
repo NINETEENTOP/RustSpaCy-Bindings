@@ -81,3 +81,5 @@ dependencies = [
 
 [[package]]
 name = "paste"
+version = "0.1.12"
+source = "registry+https://github.com/rust-lang/crates.io-index"
