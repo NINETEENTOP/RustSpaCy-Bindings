@@ -91,3 +91,7 @@ dependencies = [
 
 [[package]]
 name = "paste-impl"
+version = "0.1.12"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "2e0bf239e447e67ff6d16a8bb5e4d4bd2343acf5066061c0e8e06ac5ba8ca68c"
+dependencies = [
