@@ -87,3 +87,7 @@ checksum = "0a229b1c58c692edcaa5b9b0948084f130f55d2dcc15b02fcc5340b2b4521476"
 dependencies = [
  "paste-impl",
  "proc-macro-hack",
+]
+
+[[package]]
+name = "paste-impl"
