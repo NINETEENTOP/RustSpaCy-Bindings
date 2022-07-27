@@ -123,3 +123,5 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "968ddca15e0fa74da3207aeb7b9fbbe94864dd13a17eaa95f75b5b836abf3007"
 dependencies = [
  "libc",
+ "regex",
+]
