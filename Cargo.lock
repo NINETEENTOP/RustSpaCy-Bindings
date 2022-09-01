@@ -197,3 +197,5 @@ dependencies = [
  "lazy_static",
  "libc",
  "libloading",
+ "serde",
+ "serde_json",
