@@ -13,3 +13,4 @@ fn main() {
     .args(pangram2)
     .kwargs(None)
     .invoke();
+}
